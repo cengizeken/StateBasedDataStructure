@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class VariableStorage {
-    // Map to store variable values based on states
+    // Map to store variable values based on states, state and variable name is string
     private Map<String, Map<String, Double>> stateVariableMap;
 
     public VariableStorage() {

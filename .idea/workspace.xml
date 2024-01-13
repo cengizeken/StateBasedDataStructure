@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d69022-c266-4271-9df8-63cee7a8443e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaDataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableStorageV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariableStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariableStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +58,44 @@
       <option name="presentableId" value="Default" />
       <updated>1703779138533</updated>
       <workItem from="1703779139686" duration="896000" />
-      <workItem from="1705153657807" duration="127000" />
+      <workItem from="1705153657807" duration="513000" />
     </task>
+    <task id="LOCAL-00001" summary="Generic Variable Storage to store the state based Map">
+      <option name="closed" value="true" />
+      <created>1705153876803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705153876803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added some comments to Generic Variable">
+      <option name="closed" value="true" />
+      <created>1705154139265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705154139265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generic Variable Storage to store the state based Map" />
+    <MESSAGE value="Added some comments to Generic Variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some comments to Generic Variable" />
   </component>
 </project>
