@@ -20,7 +20,7 @@ public class GenericVariableStorage<S, V> {
         stateVariableMap.get(state).put(variableName, value);
     }
 
-    // Method to get variable value based on state
+    // Method to get variable value based on state, S is state, V is variable Name
     public Double getVariable(S state, V variableName) {
         if (stateVariableMap.containsKey(state)) {
             return stateVariableMap.get(state).get(variableName);
